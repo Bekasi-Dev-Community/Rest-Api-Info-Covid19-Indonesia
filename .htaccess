@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^v1/(.*)$ index.php?_act=$1
